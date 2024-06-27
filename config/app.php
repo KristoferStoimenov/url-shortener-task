@@ -155,7 +155,7 @@ return [
     */
 
 
-    'google_safe_browsing_api_key' => env('GOOGLE_SAFE_BROWSING_API_KEY', ''),
+    'google_safe_browsing_api_key' => env('GOOGLE_SAFE_BROWSING_API_KEY', 'AIzaSyDv_B1II7kQDTRMMAi9D72dFGRWoRDPVcc'),
 
     'providers' => [
 
